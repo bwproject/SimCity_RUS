@@ -20,12 +20,11 @@
 Всю папку из Архива закинуть в место где у вас устоновленна SimCity 
 У меня это C:\Program Files\EA Games
 
-Там два Файла для Русского языка
-=========================================
+Там два Файла для Русского 
+
 \SimCity\GDFBinary_ru_RU.dll
 
 \SimCity\SimCityData\Locale\ru-ru\Data.package
-============================================
 
 
 ![reg](/img/reg.jpeg)
