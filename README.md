@@ -17,6 +17,8 @@
 \SimCity\SimCityData\Locale\ru-ru\Data.package
 ============================================
 
+
+![reg](/img/reg.jpeg)
 Win+R прописать regedit
 Найдите игру в реестре и измените параметр "Locale" на ru_RU
 Путь \HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Maxis\SimCity
