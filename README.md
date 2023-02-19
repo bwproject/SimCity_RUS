@@ -11,7 +11,8 @@
 1 : закинуть папку с Русским языком в папку игры
 
 (у меня сработало но на второй запуск игры выдало Ошибку)
-![error](/img/error.jpeg)
+
+![error](/img/error.png)
 
 2 : заменить файл (Data.package) Английского языка на Русский
 
@@ -29,6 +30,7 @@
 
 
 ![reg](/img/reg.jpeg)
+
 Win+R прописать regedit
 Найдите игру в реестре и измените параметр "Locale" на ru_RU
 Путь \HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Maxis\SimCity
@@ -45,7 +47,5 @@ Win+R прописать regedit
 \SimCity\SimCityData\Locale\en-us\Data.package
 
 # Теперь можно спокойно играть на Русском языке
-![reg](/img/ru_RU.jpeg)
 
-
-
+![ru_RU](/img/ru_RU.jpeg)
